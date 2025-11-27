@@ -1,6 +1,6 @@
 ## Audirvana Mac Studio License
 
-<img src="https://static.macupdate.com/products/39199/l/audirvana-logo.png?v=1632493307" width="200" alt="App icon" align="left"/>
+<img src="https://img.informer.com/icons_mac/png/128/552/552523.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Audirvana for macOS</h3>
@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-4.1k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io-badge/version-4.0-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-4.0-blue?style=flat" alt="version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Studio%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
